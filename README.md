@@ -1,0 +1,2 @@
+"Sales Prediction" 
+"This project, Sales Prediction Using Python, aims to forecast product sales based on advertising expenditures across TV, radio, and newspapers. Using machine learning techniques, specifically Linear Regression and Random Forest Regressor, the project predicts sales figures to help businesses optimize their advertising strategies. After preprocessing and standardizing the data, the models were trained and evaluated. The Random Forest Regressor achieved an impressive 95% accuracy, showcasing its effectiveness in sales prediction for this dataset." 
